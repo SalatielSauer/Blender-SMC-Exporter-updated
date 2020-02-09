@@ -20,7 +20,7 @@ bl_info = {
     "name": "Export Sauerbraten (.smc)",
     "author": "Wrack",
     "version": (1, 0),
-    "blender": (2, 6, 0),
+    "blender": (2, 7, 9),
     "api": 42615,
     "location": "File > Export > Sauerbraten (.smc)",
     "description": "Export Selected Mesh to Sauerbraten",
